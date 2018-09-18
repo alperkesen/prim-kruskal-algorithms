@@ -1,0 +1,2 @@
+fibonacci_heap_mod==1.1 
+plotly==3.2.1
